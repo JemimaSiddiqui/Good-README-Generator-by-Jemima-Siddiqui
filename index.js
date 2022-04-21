@@ -4,7 +4,7 @@ const { type } = require('os');
 const generateMarkdown = require("./utils/generateMarkdown.js");
 const writeFile = require('./utils/generateFile.js');
 
-
+// Prompts displayed to the user in command line
 const promptQuestions = () => {
     return inquirer.prompt([
     {

@@ -1,3 +1,4 @@
+// Major sections of the README 
 const generateInstallationSection = installText => {
     if (!installText) {
       return ''
@@ -25,6 +26,7 @@ const generateInstallationSection = installText => {
     `
     }
   }
+  // Validating whether user selected yes/no the following sections of the README
   const installationValidation = check => {
     if (!check) {
       return '';
@@ -47,7 +49,7 @@ const generateInstallationSection = installText => {
     }
   }
   
-
+// Creating the README file content in the following function
 function generateMarkdown(data) {
 return `
 ![GitHub](https://img.shields.io/github/license/${data.githubUsername}/${data.title})
@@ -76,5 +78,6 @@ If you have any further questions, please feel free to contact me at: [${data.em
 `;
 
 }
-  
+
+// exporting the function
 module.exports = generateMarkdown;

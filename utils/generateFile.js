@@ -1,7 +1,6 @@
 const fs = require('fs');
-//const { resolveCname } = require('dns');
-//const { resolve } = require('path');
 
+// wrtiting to README file 
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
         fs.writeFile('./dist/README.md', fileContent, err => {
@@ -18,4 +17,5 @@ const writeFile = fileContent => {
     });
 };
 
+// exporting the file 
 module.exports = writeFile;
