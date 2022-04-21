@@ -1,8 +1,8 @@
 
-![GitHub](https://img.shields.io/github/license/JemimaSiddiqui/README Sample)
-# README Sample
+![GitHub](https://img.shields.io/github/license/JemimaSiddiqui/README-Sample)
+# README-Sample
 ## Description
-Description of sample project.
+Project description.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,17 +12,17 @@ Description of sample project.
 * [Questions](#questions)
 
 ## Installation
-    Project installation instructions.
+    Installation instructions for project.
     
 ## Usage
-Usage information for project.
+Project usage information.
 ## License
 This application is covered under the MIT license.
 ## Contributions
-    Project contribution guidelines.
+    Contribution guidelines for project.
     
 ## Testing
-    Project testing instructions.
+    Testing instructions for project.
     
 ## Questions
 Author: [JemimaSiddiqui](https://github.com/JemimaSiddiqui)
