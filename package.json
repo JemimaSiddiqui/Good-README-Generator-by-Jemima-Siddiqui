@@ -1,0 +1,22 @@
+{
+  "name": "good-readme-generator-by-jemima-siddiqui",
+  "version": "1.0.0",
+  "description": "good readme generator using command line prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JemimaSiddiqui/Good-README-Generator-by-Jemima-Siddiqui.git"
+  },
+  "author": "Jemima Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JemimaSiddiqui/Good-README-Generator-by-Jemima-Siddiqui/issues"
+  },
+  "homepage": "https://github.com/JemimaSiddiqui/Good-README-Generator-by-Jemima-Siddiqui#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
