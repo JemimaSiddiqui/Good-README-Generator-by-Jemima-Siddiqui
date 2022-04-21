@@ -41,7 +41,7 @@ If you would like to acess the source code, please navigate to the following pub
 * After the repository has been cloned to your local machine, open the files using Visual Studio application. 
 
 ## Usage
-In order to see a demonstration of this application, navigate to the following link: https://drive.google.com/file/d/1zXtCDaraC7eEtO42zrnMM0QQwnM3euk2/view
+In order to see a demonstration of this application, navigate to the following link and download the video: https://drive.google.com/file/d/1Brj7YdEnks6LM78T9I3vrqOWTRk_7TEb/view
 
 * Step 1: Change into the directory of the application 
 * Step 2: Run by using the following command in the command terminal in VS Code. 
