@@ -41,7 +41,7 @@ const promptQuestions = () => {
     },
     {
         type: 'input',
-        message: 'Please provide a installation instructions for your project:',
+        message: 'Please provide installation instructions for your project:',
         name: 'installation',
         when: ({ installConfirmation }) => {
             if (installConfirmation) {
@@ -53,7 +53,7 @@ const promptQuestions = () => {
     },
     {
         type: 'input',
-        message: 'Please provide a usage information for your project:',
+        message: 'Please provide usage information for your project:',
         name: 'usage',
         validate: usageInformation => {
             if (usageInformation) {
@@ -67,7 +67,7 @@ const promptQuestions = () => {
     {
         type: 'confirm',
         name: 'contributeConfirmation',
-        message: 'Would you like your project be open to future contributions?',
+        message: 'Would you like your project to be open to future contributions?',
         default: true
     },
     {

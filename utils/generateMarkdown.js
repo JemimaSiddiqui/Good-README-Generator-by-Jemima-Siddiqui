@@ -51,7 +51,7 @@ const generateInstallationSection = installText => {
   
 // Creating the README file content in the following function
 function generateMarkdown(data) {
-return `
+  return `
 ![GitHub](https://img.shields.io/github/license/${data.githubUsername}/${data.title})
 # ${data.title}
 ## Description
